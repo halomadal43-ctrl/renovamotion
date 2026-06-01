@@ -1,0 +1,6 @@
+{
+  "name": "Renova Motion",
+  "description": "AI-Powered Video Content & Social Media Growth Solutions. Premium content creation, UGC ads, marketing strategy, and creator courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
